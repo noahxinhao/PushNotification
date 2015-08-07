@@ -93,6 +93,9 @@ ionic build
 ![Alt text](https://github.com/noahxinhao/PushNotification/blob/master/resources/img/IMG_1921.PNG)
 ![Alt text](https://github.com/noahxinhao/PushNotification/blob/master/resources/img/IMG_1920.PNG)
 
-
+======================================================================================================
+以上为app的操作
+消息推送的服务端代码请见
+https://github.com/noahxinhao/pushServer
 
 
