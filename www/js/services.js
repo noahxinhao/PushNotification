@@ -47,4 +47,14 @@ angular.module('starter.services', [])
       return null;
     }
   };
-});
+}).factory(("ionPlatform"), function( $q ){
+      var ready = $q.defer();
+
+      ionic.Platform.ready(function( device ){
+        ready.resolve( device );
+      });
+
+      return {
+        ready: ready.promise
+      }
+    });;
