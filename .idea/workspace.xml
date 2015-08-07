@@ -2,14 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5cf23d17-f571-4b05-9e6c-8a3eeb82fe2b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ng-cordova.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/img/09744F61-8FB4-4945-969F-C69A203D61FD.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/img/0CDE0F09-2EE3-411A-99A1-653A57329F6C.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/img/1541A49D-A7C8-4D4E-B6EB-70591C861082.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/img/1FC34AE2-0ECA-455B-AC90-6D8F5BA1E065.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/img/21D0C40D-4137-4BF4-A543-A38F3BD089D8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/img/30A017AA-4E53-40C6-B018-7DAAEF46FAA4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/img/3C531EFB-A0E4-4970-A28F-EC534A78C954.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/img/40ECD93A-27FA-45D2-A522-797FCFC27B3E.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/img/47F0CCA5-7237-457E-A38F-850095A719D9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/img/4993850A-59B0-455F-B29E-CF68FCEA6E93.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/img/56AE78CC-4DC4-4106-881B-FEDF3A106C7C.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/img/583AC394-A030-417E-AB5E-9C78989489E6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/img/6142372B-B6A7-48D5-8E9B-225358225DEB.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/img/6C50A3BD-6830-4C81-A736-7FEAE17D1E4A.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/img/6E2D6082-5C50-43A0-A715-4033C453859B.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/img/7422273F-3C41-478B-A0F7-F1CB69A60E7C.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/img/80270057-68F1-4EF7-A470-2F8D82BF4376.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/img/873A1E7C-B5AB-44BD-8F28-AB4D41B89818.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/img/8E46A9BC-CD61-45D5-B42F-C7E70B15DA89.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/img/A583DBFF-D56E-4F7D-B8B7-D2099F177C5F.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/img/D0A89A9A-DDFE-4682-AC65-5B995D6419C6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/img/DDC579AD-D126-469B-9699-607456FB453F.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/img/E0AB9120-631B-40C4-A7DC-FF0C4D1A76E1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/img/E57B87C9-503A-4D6A-BC06-5F27C8F68BBF.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/img/F283C6C6-BACF-4B04-9458-BB1AB6CF6DC0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/img/IMG_1917.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/img/IMG_1918.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/img/IMG_1919.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/img/IMG_1920.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/img/IMG_1921.PNG" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/app.js" afterPath="$PROJECT_DIR$/www/js/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.xml" afterPath="$PROJECT_DIR$/config.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/controllers.js" afterPath="$PROJECT_DIR$/www/js/controllers.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/index.html" afterPath="$PROJECT_DIR$/www/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/services.js" afterPath="$PROJECT_DIR$/www/js/services.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="PushNotification.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -43,8 +67,8 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="2.1777778">
-              <caret line="98" column="0" selection-start-line="98" selection-start-column="0" selection-end-line="98" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.26666668">
+              <caret line="67" column="17" selection-start-line="67" selection-start-column="17" selection-end-line="67" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -194,65 +218,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PushNotification" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PushNotification" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PushNotification" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PushNotification" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ionic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PushNotification" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PushNotification" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
+              <option name="myItemId" value="resources" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -270,6 +236,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources" />
       <recent name="$PROJECT_DIR$/www/lib" />
     </key>
   </component>
@@ -319,7 +286,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -407,8 +374,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.1777778">
-          <caret line="98" column="0" selection-start-line="98" selection-start-column="0" selection-end-line="98" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.26666668">
+          <caret line="67" column="17" selection-start-line="67" selection-start-column="17" selection-end-line="67" selection-end-column="17" />
           <folding />
         </state>
       </provider>
