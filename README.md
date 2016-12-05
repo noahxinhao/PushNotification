@@ -1,4 +1,4 @@
-####ionic notification push示例
+###ionic notification push示例
 1,创建ionic项目【项目环境配置就不多说了】
 ```
 $ ionic start PushNotification tabs
